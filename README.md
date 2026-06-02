@@ -86,7 +86,7 @@ docker compose up --build
 |---|---|
 | Frontend | [https://inventory-system-ip83ipr28-shubham-verma-s-projects1.vercel.app] |
 | Backend API | [https://inventory-backend-wmuz.onrender.com/] |
-| Docker Hub| [http://localhost:8000/docs](https://hub.docker.com/repository/docker/shubexplorer/inventory-backend/image-management) |
+| Docker Hub| [https://hub.docker.com/repository/docker/shubexplorer/inventory-backend/image-management] |
 
 ### Stop
 ```bash
