@@ -84,8 +84,8 @@ docker compose up --build
 ### 4. Access the app
 | Service | URL |
 |---|---|
-| Frontend | http://localhost:3000 |
-| Backend API | http://localhost:8000 |
+| Frontend | [http://localhost:3000](https://inventory-system-ip83ipr28-shubham-verma-s-projects1.vercel.app) |
+| Backend API | [http://localhost:8000](https://inventory-backend-wmuz.onrender.com/) |
 | API Docs (Swagger) | http://localhost:8000/docs |
 | API Docs (ReDoc) | http://localhost:8000/redoc |
 
